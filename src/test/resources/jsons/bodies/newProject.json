@@ -1,0 +1,20 @@
+{
+  "costRate": {
+    "amount": 20000
+  },
+  "hourlyRate": {
+    "amount": 20000
+  },
+  "name": "",
+  "tasks": [
+    {
+      "costRate": {
+        "amount": 2000
+      },
+      "hourlyRate": {
+        "amount": 20000
+      },
+      "name": "Bugfixing"
+    }
+  ]
+}
